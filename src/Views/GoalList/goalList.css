@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 2px solid #000;
+    font-weight: 600;
+}
+
+.goal__list {
+    margin-bottom: 30px;
+}
+
+.goal__add {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}

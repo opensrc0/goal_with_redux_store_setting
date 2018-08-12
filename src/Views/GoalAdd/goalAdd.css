@@ -1,0 +1,49 @@
+.goal__add__action {
+    display: flex;
+    justify-content: space-between;
+}
+
+.goal__add__section {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.goal__add__title {
+    margin-bottom: 10px;
+}
+
+.goal__add__description{
+    margin-bottom: 10px;
+}
+.goal__add__input{
+    width: 100%;
+}
+
+.goal__add__new {
+    width: 60%;
+}
+
+.goal__add__save {
+    width: 35%;
+}
+
+.goal__new__ui {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.close {
+    color: #aaaaaa;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
